@@ -14,4 +14,5 @@ client_scripts {
     'client.lua'
 }
 
+dependency 'gridsystem'
 dependency 'mythic_progbar'
