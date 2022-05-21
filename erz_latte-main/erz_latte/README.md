@@ -1,5 +1,7 @@
 # ERZ_LATTE
 
+Dependency - [gridsystem] (https://github.com/Profex1999/gridsystem)
+
 Dependency : [mythic_progbar] (https://github.com/HalCroves/mythic_progbar)
 
 ## INSTALLAZIONE
