@@ -1,6 +1,6 @@
 # ERZ_LATTE
 
-FiveM plugin for drug harvesting with 2 phases.
+Dependency : [mythic_progbar] (https://github.com/HalCroves/mythic_progbar)
 
 ## INSTALLAZIONE
 - INSERISCI IN `[esx]`
